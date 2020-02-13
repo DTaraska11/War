@@ -1,0 +1,11 @@
+C:\Users\domin\RiderProjects\War\War\bin\Debug\netcoreapp3.1\War.exe
+C:\Users\domin\RiderProjects\War\War\bin\Debug\netcoreapp3.1\War.deps.json
+C:\Users\domin\RiderProjects\War\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.json
+C:\Users\domin\RiderProjects\War\War\bin\Debug\netcoreapp3.1\War.runtimeconfig.dev.json
+C:\Users\domin\RiderProjects\War\War\bin\Debug\netcoreapp3.1\War.dll
+C:\Users\domin\RiderProjects\War\War\bin\Debug\netcoreapp3.1\War.pdb
+C:\Users\domin\RiderProjects\War\War\obj\Debug\netcoreapp3.1\War.csprojAssemblyReference.cache
+C:\Users\domin\RiderProjects\War\War\obj\Debug\netcoreapp3.1\War.AssemblyInfoInputs.cache
+C:\Users\domin\RiderProjects\War\War\obj\Debug\netcoreapp3.1\War.AssemblyInfo.cs
+C:\Users\domin\RiderProjects\War\War\obj\Debug\netcoreapp3.1\War.dll
+C:\Users\domin\RiderProjects\War\War\obj\Debug\netcoreapp3.1\War.pdb
